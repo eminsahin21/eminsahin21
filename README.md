@@ -1,20 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Mehmet Emin Şahin</h1>
-<h3 align="center">Web ve Mobil alanlarına ilgili bir yazılımcı</h3>
+<h3 align="center">A software developer interested in Web and Mobile</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminsahin21&label=Views&color=28ce1c&style=flat" alt="eminsahin21" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Kotlin and Java**
 
 - 💬 Ask me about **Web,Mobile**
 
 - 📫 How to reach me **mehmeteminsahin34@gmail.com**
 
-- ⚡ Importantsss **Javsacript,Kotlin,Python**
-
-<img src="https://github.com/snipe/animated-gifs/blob/master/Relax/nothing-to-see-here.gif" align="center">
+- ⚡ Importantsss **Javsacript,Kotlin,Python,Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
