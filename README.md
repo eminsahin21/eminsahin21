@@ -2,7 +2,6 @@
 
 ### DevOps Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eminsahin21&label=Profile views&color=0e75b6&style=flat" alt="eminsahin21" /> </p>
 
 - 🌱 I'm currently learning **AWS,Huawei Cloud,Docker,Kubernetes**
 
